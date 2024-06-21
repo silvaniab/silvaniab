@@ -1,4 +1,4 @@
-  <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image.png"/>
+  <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(3).png"/>
 
 # silvania
 <img hight="" width="250" alt="GIF" align="right" src="https://github.com/silvaniabs/silvaniabs/raw/main/707_Sticker_01.gif">
