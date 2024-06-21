@@ -1,9 +1,11 @@
   <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(3).png"/>
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=FF5402&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=+Ol%C3%A1%2C++eu+sou+a+Silvania!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=FF5402&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hey+Hey+seja+bem+vindo+" alt="Typing SVG" /></a>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=FFE219&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=+%E2%8B%86+Eu+sou+a+Silvania+%E2%8B%86" alt="Typing SVG" /></a>
 </h1>
+
 
 
 <img hight="" width="250" alt="GIF" align="right" src="https://github.com/silvaniabs/silvaniabs/raw/main/707_Sticker_01.gif">
