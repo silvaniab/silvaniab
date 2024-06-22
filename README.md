@@ -12,14 +12,14 @@
 
 # 
 
-### ✧₊⁺About Me:
+### ✨️About Me:
 <img hight="" width="300" alt="GIF" align="right" src="https://github.com/silvaniabs/silvaniabs/blob/main/707_Sticker_01.gif">
 
 - Olá sou o 707...ops olá sou a Silvania tenho 19 anos.
 - Atualmente estudando:
   - Cibersegurança
   - programação em Python.
-### ✧₊⁺ Hobbies
+### ✨️Hobbies
 - Desenhar
 - ler
 - jogar otomes
@@ -28,12 +28,8 @@
 
 ---
 
-##  ✧₊⁺Others:
-<img hight="" width="300" align="left" src="https://github.com/silvaniabs/silvaniabs/blob/main/e14436da008319f6d8fc830e7fc95d98.jpg">
 
-### 
-
-### ✧₊⁺ Tech Stack:
+### ✨️Tech Stack:
 No momento aprendendo sobre esses, mas quero 
 aprender mais sobre outras no futuro. <br>
 <div align="center">
@@ -50,7 +46,6 @@ aprender mais sobre outras no futuro. <br>
 <br>
 
 ---
-#
 
 
 <h3 align="center">
