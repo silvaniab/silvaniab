@@ -16,18 +16,17 @@
 <img hight="" width="370" alt="GIF" align="right" src="https://github.com/silvaniabs/silvaniabs/blob/main/707_Sticker_01.gif">
 Olá sou o 707...ops Olá sou a Silvania tenho 19 anos. (Br/pt)
 
-### ➡ Atualmente estou estudando 
+### Atualmente estou estudando 
 - Cibersegurança
 - programação em Python.
 
 
-### ➡ Hobbies
+### Hobbies
 - Desenhar
 - ler
 - jogar otomes
-- Dançar 
-#
-
+- Dançar
+<br>
 
 ---
 
