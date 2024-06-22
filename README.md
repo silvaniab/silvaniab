@@ -14,12 +14,11 @@
 
 ### ✧₊⁺About Me:
 <img hight="" width="300" alt="GIF" align="right" src="https://github.com/silvaniabs/silvaniabs/blob/main/707_Sticker_01.gif">
-Olá sou o 707...ops olá sou a Silvania tenho 19 anos.<br>
-Atualmente estou estudando:  
 
-- Cibersegurança
-- programação em Python.
-
+- Olá sou o 707...ops olá sou a Silvania tenho 19 anos.
+- Atualmente estudando:
+  - Cibersegurança
+  - programação em Python.
 ### ✧₊⁺ Hobbies
 - Desenhar
 - ler
@@ -51,13 +50,15 @@ aprender mais sobre outras no futuro. <br>
 <br>
 
 ---
+#
 
 
+<h3 align="center">
+  
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F74D02&center=&vCenter=&repeat=&random=&width=435&lines=+++%E2%82%8A+%E2%8A%B9%E2%82%8A+%E2%8B%86+Volte+Sempre+%E2%8A%B9%E2%82%8A+%E2%8B%86%E2%82%8A+" alt="Typing SVG" /></a>
 
-<div align="center">
+</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F74D02&center=&vCenter=&repeat=&random=&width=435&lines=+%E2%9C%A7+Volte+Sempre+%E2%9C%A7" alt="Typing SVG" /></a>
-</div>
 
 <p align="center">  
   <img src="https://github.com/silvaniabs/silvaniabs/blob/main/a40c04b1-d61e-4d5c-a098-201a567b29f8.gif" alt="decorative separator" width="500">
