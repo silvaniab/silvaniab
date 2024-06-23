@@ -72,7 +72,7 @@ Contact us! <br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silvania-barbosa-a8b2112a7/) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCwXODHMO5ZdE8_n6mfjdk-Q) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rooxieeh/) <br> 
-[silvania_barbosa_santos@yahoo.com](mailto:seuemail@yahoo.com)
+[silvania_barbosa_santos@yahoo.com](mailto:silvania_barbosa_santos@yahoo.com)
 
 
 </div>
