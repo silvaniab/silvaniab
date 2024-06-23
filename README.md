@@ -1,66 +1,72 @@
-  <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(3).png"/>
-
-<h3 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=FF5402&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Hey+Hey+seja+bem+vindo+" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=FFE219&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=+%E2%8B%86+Eu+sou+a+Silvania+%E2%8B%86" alt="Typing SVG" /></a>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=FF3E00&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81%E2%94%81" alt="Typing SVG" /></a>
-  
-
-</h3>
+  <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(5).png"/>
 
 # 
 
-### ✨️About Me:
-<img hight="" width="300" alt="GIF" align="right" src="https://github.com/silvaniabs/silvaniabs/blob/main/707_Sticker_01.gif">
 
-- Olá sou o 707...ops olá sou a Silvania tenho 19 anos.
-- Atualmente estudando:
-  - Cibersegurança
-  - programação em Python.
-### ✨️Hobbies
-- Desenhar
-- ler
-- jogar otomes
-- Dançar
+<div align="center">
+<img src="https://github.com/silvaniabs/silvaniabs/blob/main/faf0055c54c398f99274844eb677be88.jpg" width="25%" align="right" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AD00DF&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A+%F0%9D%92%89%F0%9D%92%86%F0%9D%92%9A+%F0%9D%92%98%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%84%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%86%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8D%F0%9D%92%97%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%82!!" alt="Typing SVG" /></a>
+<br>
+  <div align="left">
+<pre>
+    ★ <b>About me:</b> Meu nome é silvania, tenho 19 anos e sou do Brasil. 
+    ★ <b>Situação atual:</b> @ ainda em busca do primeiro emprego.
+    ★ <b>Aprendendo:</b> Atualmente estou estudando programação em Python, e Cibersegurança
+      (ainda em dúvida sobre qual área específicamente).
+    ★ <b>Hobbies:</b> Desenhar, ler, ouvir músicas, dançar, jogar otomes...
+    ★ <b>Amo:</b> Rock, cores frias, cappuccino, sobremesas doces...
+    
+
+
+  
+</pre>
+  </div>
+  <div align="center" >
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=CB43FB&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%E2%98%86+%E2%98%85+%E2%9C%AE+%E2%98%85+%E2%98%86+%E2%98%86+%E2%98%85+%E2%9C%AE+%E2%98%85+%E2%98%86" alt="Typing SVG" /></a>
+    
+  </div>
 <br>
 
 ---
 
+<img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(7).png"/>
 
-### ✨️Tech Stack:
-No momento aprendendo sobre esses, mas quero 
-aprender mais sobre outras no futuro. <br>
-<div align="center">
-  
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) 
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white)
 
-#
 
-![](https://github-readme-stats.vercel.app/api?username=Silvaniabs&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<h2 align="center">
 
+「 ✦ 𝑮𝒊𝒕𝑯𝒖𝒃 𝑺𝒕𝒂𝒕𝒔 ✦ 」
+
+</h2>
+
+<img src="https://github.com/silvaniabs/silvaniabs/blob/main/ezgif.com-effects.gif" width="22%" align="left" />
+  <div align="right">
+    
+![](https://github-readme-stats.vercel.app/api?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  </div>
+    
 </div>
 
-<br>
+<img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(7).png"/>
+
 
 ---
 
 
 <h3 align="center">
   
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=F74D02&center=&vCenter=&repeat=&random=&width=435&lines=+++%E2%82%8A+%E2%8A%B9%E2%82%8A+%E2%8B%86+Volte+Sempre+%E2%8A%B9%E2%82%8A+%E2%8B%86%E2%82%8A+" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=29&pause=1000&color=CB43FB&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%E2%9F%A1%CB%96%E2%81%BA%E2%80%A7%E2%82%8A%F0%9D%91%AA%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%86+%F0%9D%92%83%F0%9D%92%82%F0%9D%92%84%F0%9D%92%8C+%F0%9D%92%94%F0%9D%92%90%F0%9D%92%90%F0%9D%92%8F%CB%96%E2%81%BA%E2%80%A7%E2%82%8A%E2%9F%A1" alt="Typing SVG" /></a>
 
 </h3>
 
 
 <p align="center">  
-  <img src="https://github.com/silvaniabs/silvaniabs/blob/main/a40c04b1-d61e-4d5c-a098-201a567b29f8.gif" alt="decorative separator" width="500">
+  <img src="https://github.com/silvaniabs/silvaniabs/blob/main/c104dd03148ce73ba166d9a46f74e4d8.jpg" alt="decorative separator" width="500">
   
 <div align="center" >
 
-Entre em contato <br>
+Contact us! <br>
 ˗ˏˋ ♡ ˎˊ˗
 
 
