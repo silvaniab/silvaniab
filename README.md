@@ -40,9 +40,10 @@
 </h2>
 
 <img src="https://github.com/silvaniabs/silvaniabs/blob/main/ezgif.com-effects.gif" width="22%" align="left" />
-  <div align="right">
+  <div align="center">
     
 ![](https://github-readme-stats.vercel.app/api?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
     
 </div>
