@@ -43,7 +43,6 @@
   <div align="right">
     
 ![](https://github-readme-stats.vercel.app/api?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
     
 </div>
