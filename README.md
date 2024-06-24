@@ -1,10 +1,10 @@
-  <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(5).png"/>
+  <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/Ativos/github-header-image%20(5).png"/>
 
 # 
 
 
 <div align="center">
-<img src="https://github.com/silvaniabs/silvaniabs/blob/main/faf0055c54c398f99274844eb677be88.jpg" width="25%" align="right" />
+<img src="https://github.com/silvaniabs/silvaniabs/blob/main/Ativos/faf0055c54c398f99274844eb677be88.jpg" width="25%" align="right" />
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=AD00DF&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=%F0%9D%91%AF%F0%9D%92%86%F0%9D%92%9A+%F0%9D%92%89%F0%9D%92%86%F0%9D%92%9A+%F0%9D%92%98%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%84%F0%9D%92%90%F0%9D%92%8E%F0%9D%92%86%2C+%F0%9D%91%B0'%F0%9D%92%8E+%F0%9D%91%BA%F0%9D%92%8A%F0%9D%92%8D%F0%9D%92%97%F0%9D%92%82%F0%9D%92%8F%F0%9D%92%8A%F0%9D%92%82!!" alt="Typing SVG" /></a>
 <br>
   <div align="left">
@@ -29,7 +29,7 @@
 
 ---
 
-<img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(7).png"/>
+<img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/Ativos/github-header-image%20(7).png"/>
 
 
 
@@ -48,7 +48,7 @@
   
 </div>
 
-<img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(7).png"/>
+<img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/Ativos/github-header-image%20(7).png"/>
 
 
 #
@@ -62,7 +62,7 @@
 
 
 <p align="center">  
-  <img src="https://github.com/silvaniabs/silvaniabs/blob/main/c104dd03148ce73ba166d9a46f74e4d8.jpg" alt="decorative separator" width="500">
+  <img src="https://github.com/silvaniabs/silvaniabs/blob/main/Ativos/c104dd03148ce73ba166d9a46f74e4d8.jpg" alt="decorative separator" width="500">
   
 <div align="center" >
 
