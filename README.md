@@ -13,7 +13,7 @@
     ★ <b>Situação atual:</b> @ ainda em busca do primeiro emprego.
     ★ <b>Aprendendo:</b> Atualmente estou estudando programação em Python, e Cibersegurança
       (ainda em dúvida sobre qual área específicamente).
-    ★ <b>Hobbies:</b> Desenhar, ler, ouvir músicas, dançar, jogar otomes...
+    ★ <b>Hobbies:</b> Desenhar, ler, ouvir músicas, dançar, jogar otomes, animes...
     ★ <b>Amo:</b> Rock, cores frias, cappuccino, sobremesas doces...
     
 
@@ -43,13 +43,15 @@
 ![](https://github-readme-stats.vercel.app/api?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=silvaniabs&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
   </div>
-    
+
+#
+  
 </div>
 
 <img width=100% botton=50px src="https://github.com/silvaniabs/silvaniabs/blob/main/github-header-image%20(7).png"/>
 
 
----
+#
 
 
 <h3 align="center">
@@ -81,3 +83,4 @@ Contact us! <br>
 
 </p>
 
+---
