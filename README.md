@@ -9,9 +9,9 @@
 
 
   
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144603728.png" width="23%" align="right" />
+<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144603728.png" width="26%" align="right" />
 
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="23%" align="left" />
+<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="26%" align="left" />
 
 
 
@@ -30,10 +30,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1E98FF&width=435&height=60&lines=%E2%98%86+%E2%98%85+%E2%9C%AE+%E2%98%85+%E2%98%86+%E2%98%86+%E2%98%85+%E2%9C%AE+%E2%98%85+%E2%98%86+%E2%98%86+%E2%98%85+%E2%9C%AE+%E2%98%85+%E2%98%86" alt="Typing SVG" /></a>
   
   
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_212030272.png" height="70" />
 
 </div>
 
+<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_212030272.png" height="70" />
 
 ---
 
