@@ -13,7 +13,7 @@
 
 <img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="25%" align="left" />
 
-
+<br>
 <br>
 <pre>
       💠 19 anos • Brasil • self-taught student      
