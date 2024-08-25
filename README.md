@@ -14,7 +14,7 @@
 <img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="23%" align="left" />
 
 
-<br><br>
+<br>
 <pre>
       💠 19 anos • Brasil • self-taught student      
 💠 Junior • Cybersecurity analyst • Python
