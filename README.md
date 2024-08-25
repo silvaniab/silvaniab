@@ -9,9 +9,9 @@
 <img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_212030272.png" height="75" />
 
   
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144603728.png" width="25%" align="right" />
+<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144603728.png" width="20%" align="right" />
 
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="25%" align="left" />
+<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="20%" align="left" />
 
 
 
