@@ -7,14 +7,13 @@
   
 
 
-
+<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_212030272.png" height="70" />
   
 <img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144603728.png" width="25%" align="right" />
 
 <img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_144732548.png" width="25%" align="left" />
 
-<br>
-<br>
+
 <pre>
       💠 19 anos • Brasil • self-taught student      
 💠 Junior • Cybersecurity analyst • Python
@@ -23,7 +22,7 @@
 💠 “ Create what you love! ”
 </pre>
 
-<br><br>
+<br>
 <div align="center">
 
 
@@ -33,7 +32,6 @@
 
 </div>
 
-<img src="https://github.com/sylvanyab/sylvanyab/blob/main/BackgroundEraser_20240824_212030272.png" height="70" />
 
 ---
 
