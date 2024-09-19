@@ -40,7 +40,7 @@
 
 <div align= "center">
 
-[Instagram ](https://www.instagram.com/rooxieeh/)  / [LinkedIn]() / [Youtube](https://www.youtube.com/@roxiiee5668)
+[Instagram ](https://www.instagram.com/rooxieeh/)  / [LinkedIn]() / [X](https://x.com/aestheticmygg)
   
 ˗ˏˋ ★ ˎˊ˗
 
