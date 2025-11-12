@@ -17,7 +17,7 @@
 
 
 <pre>
-      💠 20 anos • Brasil • Autodidata      
+      💠 21 anos • Brasil • Autodidata      
 💠 Artista visual • Cibersegurança 
 💠 Redes de computadores • Python
 💠 Musicas • Livros • Animes • Desenhar 
